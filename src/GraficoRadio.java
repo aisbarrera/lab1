@@ -25,7 +25,7 @@ public class GraficoRadio extends JFrame {
 	setContentPane(contentPane);
 	contentPane.setLayout(null);
    
-        miRadio = new RadioG1();
+        miRadio = new RadioG2();
         
         btn1 = new JButton("1");
 	btn1.setBounds(51, 172, 46, 29);
